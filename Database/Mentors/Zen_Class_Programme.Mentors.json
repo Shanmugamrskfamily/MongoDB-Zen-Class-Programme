@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "64fedd24c877bf36772149f5"
+  },
+  "mentorId": 1,
+  "mentorName": "Manikandan Anbazhagan",
+  "mentorEmail": "manikandan@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64fedd24c877bf36772149f6"
+  },
+  "mentorId": 2,
+  "mentorName": "Deepika",
+  "mentorEmail": "deepika@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64fedd24c877bf36772149f7"
+  },
+  "mentorId": 3,
+  "mentorName": "Ramya",
+  "mentorEmail": "ramya@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64fedd24c877bf36772149f8"
+  },
+  "mentorId": 4,
+  "mentorName": "Gowtham",
+  "mentorEmail": "gowtham@gmail.com"
+}]

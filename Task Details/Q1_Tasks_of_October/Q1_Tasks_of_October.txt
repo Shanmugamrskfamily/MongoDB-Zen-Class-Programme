@@ -1,0 +1,13 @@
+db.getCollection('Tasks').aggregate(
+  [
+    {
+      $lookup: {
+        from: 'Tasks',
+        localField: 'topicId',
+        foreignField: 'topicId',
+        as: 'taskInfo'
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
