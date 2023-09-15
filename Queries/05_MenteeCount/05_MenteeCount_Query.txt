@@ -1,0 +1,4 @@
+db.getCollection('Mentors').aggregate(
+  [{ $match: { menteeCount: { $gt: 15 } } }],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

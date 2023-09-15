@@ -1,0 +1,737 @@
+[{
+  "topic": "RWD",
+  "topicDate": "2020-10-10",
+  "Topic Task Data": [
+    {
+      "userId": 1,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 2,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 6,
+      "task": "RWD",
+      "submitted": false
+    },
+    {
+      "userId": 7,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 10,
+      "task": "RWD",
+      "submitted": false
+    },
+    {
+      "userId": 11,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 13,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 17,
+      "task": "RWD",
+      "submitted": false
+    },
+    {
+      "userId": 18,
+      "task": "RWD",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "RWD",
+      "submitted": false
+    },
+    {
+      "userId": 20,
+      "task": "RWD",
+      "submitted": true
+    }
+  ]
+},
+{
+  "topic": "Bootstrap",
+  "topicDate": "2020-10-11",
+  "Topic Task Data": [
+    {
+      "userId": 1,
+      "task": "Bootstrap",
+      "submitted": false
+    },
+    {
+      "userId": 2,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 6,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 7,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 10,
+      "task": "Bootstrap",
+      "submitted": false
+    },
+    {
+      "userId": 11,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 13,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 17,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 18,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "Bootstrap",
+      "submitted": true
+    },
+    {
+      "userId": 20,
+      "task": "Bootstrap",
+      "submitted": true
+    }
+  ]
+},
+{
+  "topic": "JS",
+  "topicDate": "2020-10-17",
+  "Topic Task Data": [
+    {
+      "userId": 1,
+      "task": "JS",
+      "submitted": false
+    },
+    {
+      "userId": 2,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 6,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 7,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 10,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 11,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 13,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 17,
+      "task": "JS",
+      "submitted": false
+    },
+    {
+      "userId": 18,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "JS",
+      "submitted": true
+    },
+    {
+      "userId": 20,
+      "task": "JS",
+      "submitted": true
+    }
+  ]
+},
+{
+  "topic": "Async Programming",
+  "topicDate": "2020-10-18",
+  "Topic Task Data": [
+    {
+      "userId": 1,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 2,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 6,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 7,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 10,
+      "task": "Async Programming",
+      "submitted": false
+    },
+    {
+      "userId": 11,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 13,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 17,
+      "task": "Async Programming",
+      "submitted": false
+    },
+    {
+      "userId": 18,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "Async Programming",
+      "submitted": true
+    },
+    {
+      "userId": 20,
+      "task": "Async Programming",
+      "submitted": true
+    }
+  ]
+},
+{
+  "topic": "React",
+  "topicDate": "2020-10-24",
+  "Topic Task Data": [
+    {
+      "userId": 2,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 6,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 7,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 10,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 11,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "React",
+      "submitted": false
+    },
+    {
+      "userId": 13,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 17,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 18,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "React",
+      "submitted": true
+    },
+    {
+      "userId": 20,
+      "task": "React",
+      "submitted": true
+    }
+  ]
+},
+{
+  "topic": "React-Redux",
+  "topicDate": "2020-10-25",
+  "Topic Task Data": [
+    {
+      "userId": 1,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 2,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "React-Redux",
+      "submitted": false
+    },
+    {
+      "userId": 6,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 7,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 10,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 11,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 13,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "React-Redux",
+      "submitted": false
+    },
+    {
+      "userId": 17,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 18,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "React-Redux",
+      "submitted": true
+    },
+    {
+      "userId": 20,
+      "task": "React-Redux",
+      "submitted": true
+    }
+  ]
+},
+{
+  "topic": "MySQL",
+  "topicDate": "2020-10-31",
+  "Topic Task Data": [
+    {
+      "userId": 1,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 2,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 3,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 4,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 5,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 6,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 7,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 8,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 9,
+      "task": "MySQL",
+      "submitted": false
+    },
+    {
+      "userId": 10,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 11,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 12,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 13,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 14,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 15,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 16,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 17,
+      "task": "MySQL",
+      "submitted": false
+    },
+    {
+      "userId": 18,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 19,
+      "task": "MySQL",
+      "submitted": true
+    },
+    {
+      "userId": 20,
+      "task": "MySQL",
+      "submitted": true
+    }
+  ]
+}]
