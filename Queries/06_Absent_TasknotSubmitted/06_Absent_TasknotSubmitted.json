@@ -1,0 +1,147 @@
+[{
+  "userId": 17,
+  "topicId": 3,
+  "attended": false,
+  "Absent": {
+    "topicId": 3,
+    "topic": "JS",
+    "topicDate": "2020-10-17"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a34"
+    },
+    "taskId": 3,
+    "topicId": 3,
+    "userId": 17,
+    "task": "JS",
+    "dueDate": "2020-10-19",
+    "submitted": false
+  }
+},
+{
+  "userId": 17,
+  "topicId": 3,
+  "attended": false,
+  "Absent": {
+    "topicId": 3,
+    "topic": "JS",
+    "topicDate": "2020-10-17"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a48"
+    },
+    "taskId": 4,
+    "topicId": 4,
+    "userId": 17,
+    "task": "Async Programming",
+    "dueDate": "2020-10-20",
+    "submitted": false
+  }
+},
+{
+  "userId": 12,
+  "topicId": 5,
+  "attended": false,
+  "Absent": {
+    "topicId": 5,
+    "topic": "React",
+    "topicDate": "2020-10-24"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a56"
+    },
+    "taskId": 5,
+    "topicId": 5,
+    "userId": 12,
+    "task": "React",
+    "dueDate": "2020-10-26",
+    "submitted": false
+  }
+},
+{
+  "userId": 5,
+  "topicId": 6,
+  "attended": false,
+  "Absent": {
+    "topicId": 6,
+    "topic": "React-Redux",
+    "topicDate": "2020-10-25"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a63"
+    },
+    "taskId": 6,
+    "topicId": 6,
+    "userId": 5,
+    "task": "React-Redux",
+    "dueDate": "2020-10-27",
+    "submitted": false
+  }
+},
+{
+  "userId": 16,
+  "topicId": 6,
+  "attended": false,
+  "Absent": {
+    "topicId": 6,
+    "topic": "React-Redux",
+    "topicDate": "2020-10-25"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a6e"
+    },
+    "taskId": 6,
+    "topicId": 6,
+    "userId": 16,
+    "task": "React-Redux",
+    "dueDate": "2020-10-27",
+    "submitted": false
+  }
+},
+{
+  "userId": 17,
+  "topicId": 7,
+  "attended": false,
+  "Absent": {
+    "topicId": 7,
+    "topic": "MySQL",
+    "topicDate": "2020-10-31"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a34"
+    },
+    "taskId": 3,
+    "topicId": 3,
+    "userId": 17,
+    "task": "JS",
+    "dueDate": "2020-10-19",
+    "submitted": false
+  }
+},
+{
+  "userId": 17,
+  "topicId": 7,
+  "attended": false,
+  "Absent": {
+    "topicId": 7,
+    "topic": "MySQL",
+    "topicDate": "2020-10-31"
+  },
+  "Task-notSubmitted": {
+    "_id": {
+      "$oid": "64fee115c877bf3677214a48"
+    },
+    "taskId": 4,
+    "topicId": 4,
+    "userId": 17,
+    "task": "Async Programming",
+    "dueDate": "2020-10-20",
+    "submitted": false
+  }
+}]
